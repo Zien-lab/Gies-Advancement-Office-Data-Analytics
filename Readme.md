@@ -1,6 +1,7 @@
 # 🎓 Alumni Donation Analysis Project
 
 This project is a collaborative initiative between our team and the Gies Advancement Office's Data Department at the Gies College of Business, University of Illinois Urbana-Champaign.
+Developed and improved machine learning models to predict potential donors with nearly 80% accuracy, and built an interactive web application for client use.(https://alumni-donation-app.onrender.com/)
 
 ## 🏛 About Gies Advancement Office
 
